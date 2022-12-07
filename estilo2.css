@@ -29,3 +29,26 @@
     
     
 }
+.boton:hover{
+    background: hsl(244, 18%, 70%) ;
+    box-shadow: 0 0 80px #171256,0 0 40px #6017c6,0 0 80px #1b0ddd; 
+}
+
+ul, li { 
+    display: inline-block;
+}
+li a {
+    color : white;
+    font-size: 30px;
+    padding: 0 13px 0;
+    text-decoration: none;
+    
+}
+nav{ 
+    background-color: #5d1717;
+    padding: 1em;
+}
+.texto{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

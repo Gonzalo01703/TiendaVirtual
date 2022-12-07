@@ -1,0 +1,33 @@
+.caja{
+    max-width: 1200px;
+    width: 50%;
+    margin: 100px auto;
+}
+.salida1{
+    width: 100%;
+
+}
+.salida2{
+    text-align: center;
+    overflow: hidden;
+    width: 650px;
+    height: 130px;
+}
+.salida2 >ul{
+    list-style-type: none;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.salida2 > ul > li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(105, 127, 116);
+    text-shadow: 4px 4px 7px gray;
+}
+body{
+    
+    background-size: 100% 100%;
+	background-attachment: fixed;
+}
