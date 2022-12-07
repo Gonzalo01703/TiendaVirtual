@@ -27,9 +27,7 @@ nav{
 .tabla{
     display: grid;
     grid-template-columns: repeat(3,minmax(100px,500px));
-   
-   
-    text-align: center;
+   text-align: center;
 }
 .elemento{
     
